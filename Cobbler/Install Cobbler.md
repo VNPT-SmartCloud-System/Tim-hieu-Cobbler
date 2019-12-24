@@ -227,7 +227,7 @@ Thư mục chứa các file kickstart là `/var/lib/cobbler/kickstarts`. Tạo c
 
 - Kiểm tra trên cobbler server thấy đã cấp phát DHCP cho các client như sau:
 
-- ![]( /image/boot14.png)
+- ![]( /image/boot4.png)
 
 <a name = '4'></a>
 # 4.Tham khảo
