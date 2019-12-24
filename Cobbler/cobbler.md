@@ -50,3 +50,8 @@ quản lý tài nguyên và nhiều loại data chuyên biệt
   + tạo repo
   + add System
   + boot máy trạm và chờ kết quả
+  
+  # Tham khảo 
+  
+  - [1] https://news.cloud365.vn/cobbler-tong-quan-ve-cobbler/
+  - [2] https://github.com/hocchudong/thuctap012017/tree/master/TamNT/PXE-Kickstart-Cobbler
