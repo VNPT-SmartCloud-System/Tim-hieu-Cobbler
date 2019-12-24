@@ -202,6 +202,8 @@ Thư mục chứa các file kickstart là `/var/lib/cobbler/kickstarts`. Tạo c
 
 	- File kickstart cho Ubuntu server 16.04 với tên [US1604.cfg.ks](../config_files/US1604-cobbler.ks)
 
+- Các bạn tham khảo file kickstart tại đây: https://github.com/hocchudong/thuctap012017/tree/master/TamNT/PXE-Kickstart-Cobbler/config_files
+
 - Đồng bộ và cập nhật file kickstart cho các profile của Centos 7 và Ubuntu server 16.04 như sau: 
 
 	```
